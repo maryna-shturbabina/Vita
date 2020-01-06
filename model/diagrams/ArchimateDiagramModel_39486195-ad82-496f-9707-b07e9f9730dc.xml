@@ -7,13 +7,12 @@
       xsi:type="archimate:DiagramModelGroup"
       id="076005ac-d59d-42b8-8e30-c209283310b8"
       name="BACKOFFICE"
-      textAlignment="1"
-      borderType="1">
+      textAlignment="1">
     <bounds
-        x="216"
-        y="24"
-        width="1189"
-        height="673"/>
+        x="204"
+        y="-108"
+        width="937"
+        height="541"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c7aac821-e680-47e3-9174-b0c2218f43d9"
@@ -22,7 +21,7 @@
           x="24"
           y="36"
           width="349"
-          height="157"/>
+          height="145"/>
       <children
           xsi:type="archimate:DiagramModelNote"
           id="ee395fa0-96a3-40f7-9111-cb51ed34430d"
@@ -80,8 +79,8 @@
       <bounds
           x="396"
           y="36"
-          width="541"
-          height="325"/>
+          width="517"
+          height="313"/>
       <children
           xsi:type="archimate:DiagramModelNote"
           id="6cab5eb1-b6d5-4b35-8e54-efea4f39ad28"
@@ -294,7 +293,7 @@
         textAlignment="1">
       <bounds
           x="24"
-          y="204"
+          y="192"
           width="349"
           height="157"/>
       <children
@@ -379,7 +378,7 @@
         textAlignment="1">
       <bounds
           x="24"
-          y="372"
+          y="360"
           width="469"
           height="169"/>
       <children
@@ -484,9 +483,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b74d603f-c09a-4cd2-9fb7-ad986c348e34">
       <bounds
-          x="684"
-          y="486"
-          width="160"
+          x="720"
+          y="474"
+          width="193"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Node"
@@ -497,8 +496,8 @@
         id="784c633a-a7ad-4339-9b72-7684fc68e418">
       <bounds
           x="504"
-          y="486"
-          width="172"
+          y="474"
+          width="205"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Node"
@@ -509,8 +508,8 @@
         id="e8bb42e2-7bb9-4501-8bfe-67bfb183509d">
       <bounds
           x="504"
-          y="372"
-          width="229"
+          y="360"
+          width="409"
           height="103"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -528,31 +527,17 @@
           xsi:type="archimate:Node"
           href="Node_ccee24d8-ba26-408f-94eb-4b0375605ae5.xml#ccee24d8-ba26-408f-94eb-4b0375605ae5"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="7ed2cb5a-3052-411c-8ec7-f121c9d62592"
-        type="1">
-      <bounds
-          x="696"
-          y="591"
-          width="229"
-          height="25"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_6d0cbeb7-f409-4f4b-b674-f24464dd0836.xml#6d0cbeb7-f409-4f4b-b674-f24464dd0836"/>
-    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="64b2ca16-e544-4d6a-b5c6-4ffce11326e4"
       name="STORE"
-      textAlignment="1"
-      borderType="1">
+      textAlignment="1">
     <bounds
         x="12"
-        y="12"
+        y="-108"
         width="181"
-        height="673"/>
+        height="541"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="63d7e7fa-3b5f-48d9-8298-1b8fc71f6deb">

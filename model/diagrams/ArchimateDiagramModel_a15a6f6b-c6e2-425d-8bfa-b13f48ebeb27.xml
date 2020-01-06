@@ -12,8 +12,8 @@
       textAlignment="1"
       borderType="1">
     <bounds
-        y="671"
-        width="1009"
+        y="504"
+        width="709"
         height="194"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -93,8 +93,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5a7b8e10-e1cb-4cd1-87b0-54fc0df60c2c">
       <bounds
-          x="684"
-          y="24"
+          x="552"
+          y="84"
           width="120"
           height="55"/>
       <archimateElement
@@ -105,8 +105,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c4ea8ac3-e29f-4879-8a30-b9097041987a">
       <bounds
-          x="816"
-          y="24"
+          x="420"
+          y="84"
           width="120"
           height="55"/>
       <archimateElement
@@ -156,19 +156,19 @@
       name="Backoffice"
       textAlignment="1">
     <bounds
-        x="420"
+        x="252"
         y="181"
-        width="589"
-        height="411"/>
+        width="457"
+        height="300"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="494a97b7-ca56-4c4b-9692-3cbab1fb90fe"
         textAlignment="1">
       <bounds
-          x="24"
-          y="41"
+          x="12"
+          y="43"
           width="205"
-          height="356"/>
+          height="236"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="a381d3da-80e3-4b8d-9856-a544f38594b2"
@@ -244,10 +244,10 @@
         name="3rd party"
         textAlignment="1">
       <bounds
-          x="260"
+          x="240"
           y="45"
-          width="221"
-          height="352"/>
+          width="197"
+          height="232"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="c091f297-5996-4335-9452-f5fa81cbd58a"
@@ -255,7 +255,7 @@
         <bounds
             x="12"
             y="36"
-            width="204"
+            width="181"
             height="61"/>
         <children
             xsi:type="archimate:DiagramModelNote"
@@ -263,7 +263,7 @@
             textAlignment="1"
             content="by Evry AS">
           <bounds
-              x="36"
+              x="12"
               y="24"
               width="138"
               height="25"/>
@@ -281,8 +281,8 @@
       textAlignment="1">
     <bounds
         y="180"
-        width="397"
-        height="413"/>
+        width="229"
+        height="301"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5ed5650a-e55a-4a45-aaf6-962a623936a4"
@@ -291,7 +291,7 @@
           x="25"
           y="42"
           width="168"
-          height="355"/>
+          height="175"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="8ec28571-ac40-4c89-a084-21edf5bcc48e"
@@ -329,16 +329,15 @@
       name="Consumer"
       textAlignment="1">
     <bounds
-        x="12"
         y="24"
-        width="924"
+        width="709"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c1eb5167-fdbb-48da-8727-41c49c86a433"
         type="1">
       <bounds
-          x="12"
+          x="24"
           y="36"
           width="169"
           height="85"/>
