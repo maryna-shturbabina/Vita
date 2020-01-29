@@ -341,17 +341,6 @@
           y="36"
           width="169"
           height="85"/>
-      <children
-          xsi:type="archimate:DiagramModelNote"
-          id="90408b68-8862-4b14-b504-18058ffd17e3"
-          textAlignment="1"
-          content="by Wundermann">
-        <bounds
-            x="12"
-            y="24"
-            width="133"
-            height="25"/>
-      </children>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_1df0c525-c7e1-488b-a899-46ecff8bd77e.xml#1df0c525-c7e1-488b-a899-46ecff8bd77e"/>
