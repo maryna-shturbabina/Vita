@@ -11,7 +11,7 @@
       textAlignment="1"
       type="1">
     <bounds
-        y="181"
+        y="12"
         width="217"
         height="300"/>
     <children
@@ -73,7 +73,7 @@
       type="1">
     <bounds
         x="240"
-        y="181"
+        y="12"
         width="469"
         height="300"/>
     <children
@@ -268,7 +268,7 @@
           href="CompositionRelationship_96f625bd-ef2c-4465-ba0b-c730e43290c3.xml#96f625bd-ef2c-4465-ba0b-c730e43290c3"/>
     </sourceConnections>
     <bounds
-        y="504"
+        y="335"
         width="709"
         height="229"/>
     <children
