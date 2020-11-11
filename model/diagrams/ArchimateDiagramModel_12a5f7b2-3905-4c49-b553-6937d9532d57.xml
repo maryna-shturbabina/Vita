@@ -308,7 +308,7 @@
           id="bcb025e6-8770-4ba3-b964-b0a0d2ef5ea0">
         <bounds
             x="180"
-            y="336"
+            y="276"
             width="133"
             height="49"/>
         <archimateElement
@@ -321,7 +321,7 @@
           targetConnections="d69bddd3-b598-485d-9ba2-2490fdfe94b9">
         <bounds
             x="180"
-            y="276"
+            y="156"
             width="133"
             height="49"/>
         <archimateElement
@@ -1061,7 +1061,7 @@
       textAlignment="1">
     <bounds
         x="24"
-        y="540"
+        y="504"
         width="757"
         height="253"/>
     <children
